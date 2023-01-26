@@ -24,10 +24,6 @@
     "oncran": true
   },
   {
-    "package": "poismf",
-    "oncran": true
-  },
-  {
     "package": "readsparse",
     "oncran": true
   },

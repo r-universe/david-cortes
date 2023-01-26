@@ -33,11 +33,6 @@
 	url = https://github.com/david-cortes/outliertree
 	shallow = true
 	registered = true
-[submodule "poismf"]
-	path = poismf
-	url = https://github.com/david-cortes/poismf
-	shallow = true
-	registered = true
 [submodule "readsparse"]
 	path = readsparse
 	url = https://github.com/david-cortes/readsparse

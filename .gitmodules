@@ -48,3 +48,8 @@
 	url = https://github.com/david-cortes/stochqn
 	shallow = true
 	registered = true
+[submodule "poismf"]
+	path = poismf
+	url = https://github.com/david-cortes/poismf
+	shallow = true
+	registered = true

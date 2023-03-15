@@ -4,23 +4,8 @@
     "oncran": true
   },
   {
-    "package": "readsparse",
+    "package": "costsensitive",
     "oncran": true
-  },
-  {
-    "package": "recometrics",
-    "oncran": true
-  },
-  {
-    "package": "outliertree",
-    "oncran": true
-  },
-  {
-    "package": "nonneg.cg",
-    "oncran": true
-  },
-  {
-    "package": "poismf"
   },
   {
     "package": "isotree",
@@ -31,7 +16,22 @@
     "oncran": true
   },
   {
-    "package": "costsensitive",
+    "package": "nonneg.cg",
+    "oncran": true
+  },
+  {
+    "package": "outliertree",
+    "oncran": true
+  },
+  {
+    "package": "poismf"
+  },
+  {
+    "package": "readsparse",
+    "oncran": true
+  },
+  {
+    "package": "recometrics",
     "oncran": true
   },
   {

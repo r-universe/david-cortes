@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cmfrec"]
 	path = cmfrec
 	url = https://github.com/david-cortes/cmfrec
-	shallow = true
-	registered = true
 [submodule "costsensitive"]
 	path = costsensitive
 	url = https://github.com/david-cortes/costsensitive
-	shallow = true
-	registered = true
 [submodule "isotree"]
 	path = isotree
 	url = https://github.com/david-cortes/isotree
-	shallow = true
-	registered = true
 [submodule "MatrixExtra"]
 	path = MatrixExtra
 	url = https://github.com/david-cortes/matrixextra
-	shallow = true
-	registered = true
 [submodule "nonneg.cg"]
 	path = nonneg.cg
 	url = https://github.com/david-cortes/nonneg_cg
-	shallow = true
-	registered = true
 [submodule "outliertree"]
 	path = outliertree
 	url = https://github.com/david-cortes/outliertree
-	shallow = true
-	registered = true
 [submodule "poismf"]
 	path = poismf
 	url = https://github.com/david-cortes/poismf
-	shallow = true
-	registered = true
 [submodule "readsparse"]
 	path = readsparse
 	url = https://github.com/david-cortes/readsparse
-	shallow = true
-	registered = true
 [submodule "recometrics"]
 	path = recometrics
 	url = https://github.com/david-cortes/recometrics
-	shallow = true
-	registered = true
 [submodule "stochQN"]
 	path = stochQN
 	url = https://github.com/david-cortes/stochqn
-	shallow = true
-	registered = true
 [submodule "StratifiedRF"]
 	path = StratifiedRF
 	url = https://github.com/david-cortes/stratifiedrf
-	shallow = true
-	registered = true

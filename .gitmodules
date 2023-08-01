@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MatrixExtra"]
+	path = MatrixExtra
+	url = https://github.com/david-cortes/matrixextra
+[submodule "StratifiedRF"]
+	path = StratifiedRF
+	url = https://github.com/david-cortes/stratifiedrf
 [submodule "cmfrec"]
 	path = cmfrec
 	url = https://github.com/david-cortes/cmfrec
@@ -11,9 +17,6 @@
 [submodule "isotree"]
 	path = isotree
 	url = https://github.com/david-cortes/isotree
-[submodule "MatrixExtra"]
-	path = MatrixExtra
-	url = https://github.com/david-cortes/matrixextra
 [submodule "nonneg.cg"]
 	path = nonneg.cg
 	url = https://github.com/david-cortes/nonneg_cg
@@ -32,6 +35,3 @@
 [submodule "stochQN"]
 	path = stochQN
 	url = https://github.com/david-cortes/stochqn
-[submodule "StratifiedRF"]
-	path = StratifiedRF
-	url = https://github.com/david-cortes/stratifiedrf
